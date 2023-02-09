@@ -16,9 +16,9 @@ Once Python is installed on your machine, open the file and run it.
 
 ## Usage
 When the file is running, you will see a main menu.
-![GitHub logo](/finalCapstone/Main_menu.png)
+![GitHub logo](https://github.com/SamGarland/finalCapstone/blob/main/Sub_menu.png?raw=true)
 Enter one of the option numbers to be taken to one of the sub menus
-![GitHub logo](/finalCapstone/Sub_menu.png)
+![GitHub logo]()
 In the sub menus, follow the promps to enter info.
 
 ## Credit
